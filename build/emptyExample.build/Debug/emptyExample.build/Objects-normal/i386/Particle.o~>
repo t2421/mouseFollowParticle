@@ -1,0 +1,8 @@
+In file included from /Users/taigakiyotaki/Desktop/of_v0.7.4_osx_release/apps/myApps/physics/src/Particle.cpp:10:
+/Users/taigakiyotaki/Desktop/of_v0.7.4_osx_release/apps/myApps/physics/src/Particle.h:15: error: 'Vector2D' does not name a type
+/Users/taigakiyotaki/Desktop/of_v0.7.4_osx_release/apps/myApps/physics/src/Particle.h:16: error: 'Vector2D' does not name a type
+/Users/taigakiyotaki/Desktop/of_v0.7.4_osx_release/apps/myApps/physics/src/Particle.h:17: error: 'Vector2D' does not name a type
+/Users/taigakiyotaki/Desktop/of_v0.7.4_osx_release/apps/myApps/physics/src/Particle.cpp:12: error: new types may not be defined in a return type
+/Users/taigakiyotaki/Desktop/of_v0.7.4_osx_release/apps/myApps/physics/src/Particle.cpp:12: note: (perhaps a semicolon is missing after the definition of 'Particle2D')
+/Users/taigakiyotaki/Desktop/of_v0.7.4_osx_release/apps/myApps/physics/src/Particle.cpp:12: error: two or more data types in declaration of 'update'
+/Users/taigakiyotaki/Desktop/of_v0.7.4_osx_release/apps/myApps/physics/src/Particle.cpp:13: error: declaration of 'void Particle2D::draw()' outside of class is not definition
